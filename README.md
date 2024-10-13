@@ -1,5 +1,5 @@
 # digital-system-design
-This is a required course for second-year CS students at NTUST.
+This is a required course for second-year CS students at NTUST(113-1).
 
 Proffesor: Yi-yu Liu
 
