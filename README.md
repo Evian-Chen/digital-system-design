@@ -35,3 +35,14 @@ program reads a single-output Boolean function (with don't cares) in PLA format 
 outputs its minimum SOP representation in PLA format using the Qunie-McCluskey 
 algorithm followed by the Petrick Algorithm. Report the number of product terms and 
 literals. 
+
+## Digital System Design Project 3 – State Minimization 
+In the sequential circuit, the time sequence of inputs, states, and outputs can be 
+graphically represented in a state diagram, a.k.a. state transition graph (STG). In an STG, 
+states are represented by circles/vertices, and the transitions between two states are indicated 
+by directed lines/edges. According to the input condition, each directed line/edge originates at 
+a "present state" and terminates at a "next state". Since the number of states is correlated with 
+the number of required state flip-flops in a sequential circuit, minimizing the number of states 
+could reduce the number of state flip-flops as well as hardware costs. In this project, your 
+program reads a completely specified STG (i.e., STG without don't care conditions) in KISS 
+format and outputs its minimum STG in KISS format and in pictorial DOT format. 
