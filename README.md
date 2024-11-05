@@ -36,7 +36,7 @@ outputs its minimum SOP representation in PLA format using the Qunie-McCluskey
 algorithm followed by the Petrick Algorithm. Report the number of product terms and 
 literals. 
 
-## Digital System Design Project 3 – State Minimization 
+## Project 3 – State Minimization 
 In the sequential circuit, the time sequence of inputs, states, and outputs can be 
 graphically represented in a state diagram, a.k.a. state transition graph (STG). In an STG, 
 states are represented by circles/vertices, and the transitions between two states are indicated 
